@@ -21,10 +21,10 @@ jobs:
           SHOW_PROFILE_VIEWS: true
           SHOW_DAYS_OF_WEEK: false
           SHOW_LANGUAGE: true
-          SHOW_OS: false
+          SHOW_OS: true
           SHOW_PROJECTS: true
           SHOW_TIMEZONE: true
           SHOW_EDITORS: true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_SHORT_INFO: true
-          SHOW_LOC_CHART: false
+          SHOW_LOC_CHART: true
