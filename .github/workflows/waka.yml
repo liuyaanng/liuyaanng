@@ -27,4 +27,4 @@ jobs:
           SHOW_EDITORS: true
           SHOW_LANGUAGE_PER_REPO: true
           SHOW_SHORT_INFO: true
-          SHOW_LOC_CHART: true
+          SHOW_LOC_CHART: false
