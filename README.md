@@ -78,9 +78,5 @@ C                        2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://github.com/liuyaanng/liuyaanng/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
