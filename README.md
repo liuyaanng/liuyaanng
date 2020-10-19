@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 🏆 248 Contributions in the Year 2020
  > 
-> 📦 509.6 kB Used in Github's Storage 
+> 📦 509.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,18 +41,6 @@ Here are some ideas to get you started:
 🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   33.57% 
 🌃 Evening    104 commits    █████████░░░░░░░░░░░░░░░░   37.14% 
 🌙 Night      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       49 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Wednesday    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Thursday     69 commits     ██████░░░░░░░░░░░░░░░░░░░   24.64% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-Sunday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
 
 ```
 
@@ -73,9 +61,6 @@ Vim                      13 mins             ███████████�
 Data_Structure           6 mins              █████████████░░░░░░░░░░░░   51.74% 
 liuyaanng                6 mins              ████████████░░░░░░░░░░░░░   48.26%
 
-💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in Python** 
@@ -89,10 +74,6 @@ C                        2 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/liuyaanng/liuyaanng/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
