@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 🏆 272 Contributions in the Year 2020
  > 
-> 📦 584.2 kB Used in Github's Storage 
+> 📦 584.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+Monday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
 Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
 Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
 Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
 Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
 Saturday     51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Sunday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53%
+Sunday       70 commits     ██████░░░░░░░░░░░░░░░░░░░   24.22%
 
 ```
 
