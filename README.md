@@ -63,17 +63,16 @@ Sunday       61 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-INI                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jd_maotai_seckill_lou    0 secs              ██████████████░░░░░░░░░░░   58.33% 
-jd_maotai_seckill_jie    0 secs              ██████████░░░░░░░░░░░░░░░   41.67%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
