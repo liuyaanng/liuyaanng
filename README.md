@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 ```text
 Monday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
 Wednesday    86 commits     ███████░░░░░░░░░░░░░░░░░░   29.15% 
 Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
-Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
 Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
 Sunday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19%
 
