@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 86 Contributions in the Year 2021
+> 🏆 88 Contributions in the Year 2021
  > 
 > 📦 7.7 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
