@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 175 Contributions in the Year 2021
+> 🏆 178 Contributions in the Year 2021
  > 
 > 📦 666.8 kB Used in Github's Storage 
  > 
