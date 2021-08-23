@@ -63,17 +63,16 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 min               ███████████████████████░░   95.19% 
-EJS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.81%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-blog                     1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +89,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
