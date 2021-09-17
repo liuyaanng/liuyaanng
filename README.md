@@ -63,16 +63,16 @@ Sunday       67 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-VimL                     23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nvim                     23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,5 +89,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2021
+ Last Updated on 17/09/2021
 <!--END_SECTION:waka-->
