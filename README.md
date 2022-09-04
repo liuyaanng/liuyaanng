@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,6 +36,48 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    3 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌃 Evening    5 commits      ██████████████░░░░░░░░░░░   55.56% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       2 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Tuesday      1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Wednesday    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       4 commits      ███████████░░░░░░░░░░░░░░   44.44%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -49,5 +91,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 12:47:09 UTC
+ Last Updated on 04/09/2022 18:32:27 UTC
 <!--END_SECTION:waka-->
