@@ -36,48 +36,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 14 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    7 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌆 Daytime    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌃 Evening    5 commits      █████████░░░░░░░░░░░░░░░░   35.71% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Tuesday      5 commits      █████████░░░░░░░░░░░░░░░░   35.71% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       4 commits      ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       3 commits      █████░░░░░░░░░░░░░░░░░░░░   21.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -91,5 +49,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 12:54:40 UTC
+ Last Updated on 09/11/2022 18:30:05 UTC
 <!--END_SECTION:waka-->
