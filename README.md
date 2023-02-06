@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,19 @@ Sunday       2 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 37 mins        ██████████████████░░░░░░░   71.73% 
+JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81% 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 16 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FeaturedWallpapers       2 hrs 16 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -91,5 +94,5 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2023 18:24:15 UTC
+ Last Updated on 06/02/2023 01:29:00 UTC
 <!--END_SECTION:waka-->
