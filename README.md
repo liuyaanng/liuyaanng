@@ -63,19 +63,16 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 mins              ████████████████████░░░░░   78.21 % 
-TypeScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-soulmate-front           3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -91,5 +88,5 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2023 18:21:22 UTC
+ Last Updated on 27/02/2023 01:38:10 UTC
 <!--END_SECTION:waka-->
