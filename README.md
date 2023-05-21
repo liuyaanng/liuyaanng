@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -63,16 +63,19 @@ Sunday                   376 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ████████████████░░░░░░░░░   63.80 % 
+Vue.js                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+image-gallery-starter    0 secs              ████████████████░░░░░░░░░   63.80 % 
+soulmate-front           0 secs              █████████░░░░░░░░░░░░░░░░   36.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +91,5 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2023 18:19:18 UTC
+ Last Updated on 21/05/2023 01:25:51 UTC
 <!--END_SECTION:waka-->
