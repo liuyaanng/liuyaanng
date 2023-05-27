@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -93,5 +93,5 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2023 12:29:53 UTC
+ Last Updated on 27/05/2023 18:19:12 UTC
 <!--END_SECTION:waka-->
