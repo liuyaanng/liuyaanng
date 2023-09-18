@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -63,16 +63,22 @@ Sunday                   382 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     19 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
+GDScript                 16 mins             ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Lua                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+TSQL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+.config                  39 mins             █████████████████░░░░░░░░   69.96 % 
+zenwalls                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Unknown Project          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +94,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2023 18:18:42 UTC
+ Last Updated on 18/09/2023 01:07:48 UTC
 <!--END_SECTION:waka-->
