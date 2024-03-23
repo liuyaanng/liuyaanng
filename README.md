@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2011%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.6%20million%20lines%20of%20code-blue)
@@ -88,5 +86,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2024 06:20:51 UTC
+ Last Updated on 23/03/2024 12:30:00 UTC
 <!--END_SECTION:waka-->
