@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 849.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 165 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,5 +89,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2024 12:10:11 UTC
+ Last Updated on 26/06/2024 18:07:42 UTC
 <!--END_SECTION:waka-->
