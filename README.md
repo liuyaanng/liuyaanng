@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,13 +63,16 @@ Sunday                   423 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               6 hrs 16 mins       ████████████████████████░   97.85 % 
+Lua                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   6 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +88,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2024 18:08:35 UTC
+ Last Updated on 14/08/2024 00:22:44 UTC
 <!--END_SECTION:waka-->
