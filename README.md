@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 863.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 515 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,13 +63,17 @@ Sunday                   503 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.30 % 
+TypeScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +89,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2024 18:08:42 UTC
+ Last Updated on 09/10/2024 00:25:14 UTC
 <!--END_SECTION:waka-->
