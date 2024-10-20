@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-940%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-945%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 864.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 534 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,17 +63,17 @@ Sunday                   511 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               27 hrs 21 mins      ███████████████████████░░   92.11 % 
-Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               28 hrs 5 mins       ███████████████████████░░   92.70 % 
+Bash                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Neovim                   29 hrs 42 mins      █████████████████████████   100.00 % 
+Neovim                   30 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +89,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2024 18:08:03 UTC
+ Last Updated on 20/10/2024 00:28:09 UTC
 <!--END_SECTION:waka-->
