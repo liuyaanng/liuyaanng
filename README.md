@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-957%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20million%20lines%20of%20code-blue)
@@ -25,6 +27,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 864.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 534 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,17 +63,17 @@ Sunday                   511 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               23 hrs 16 mins      █████████████████████████   98.53 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               24 hrs 20 mins      █████████████████████████   98.26 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 37 mins      █████████████████████████   100.00 % 
+Neovim                   24 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +89,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 18:08:55 UTC
+ Last Updated on 23/10/2024 00:25:47 UTC
 <!--END_SECTION:waka-->
