@@ -63,15 +63,13 @@ Sunday                   615 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       █████████████████████████   99.42 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   3 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +85,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 18:09:06 UTC
+ Last Updated on 05/05/2025 00:31:27 UTC
 <!--END_SECTION:waka-->
