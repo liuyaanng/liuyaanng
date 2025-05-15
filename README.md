@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 960.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 181 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday                   621 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               35 hrs 30 mins      █████████████████████████   98.54 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+TypeScript               35 hrs 50 mins      █████████████████████████   98.57 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   36 hrs 1 min        █████████████████████████   100.00 % 
+Neovim                   36 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      36 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      36 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +89,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 18:10:24 UTC
+ Last Updated on 15/05/2025 00:28:46 UTC
 <!--END_SECTION:waka-->
