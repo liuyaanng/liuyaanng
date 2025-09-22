@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 2,026 Contributions in the Year 2025
+> 🏆 2,027 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,6 +36,46 @@ Here are some ideas to get you started:
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1696 commits        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+🌆 Daytime                2665 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌃 Evening                3315 commits        ██████████░░░░░░░░░░░░░░░   41.17 % 
+🌙 Night                  376 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Tuesday                  1178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Wednesday                1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Thursday                 1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Friday                   1083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Saturday                 1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Sunday                   1088 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               11 hrs 40 mins      ███████████████░░░░░░░░░░   58.36 % 
+JavaScript               5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+JSON                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+🔥 Editors: 
+Neovim                   20 hrs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      20 hrs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -49,5 +89,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 00:31:27 UTC
+ Last Updated on 22/09/2025 06:12:22 UTC
 <!--END_SECTION:waka-->
