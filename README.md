@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -63,15 +63,15 @@ Sunday                   1248 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       █████████████████████░░░░   83.75 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+TypeScript               18 mins             ███████████████░░░░░░░░░░   58.98 % 
+JavaScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 48 mins       █████████████████████████   100.00 % 
+Neovim                   31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +87,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2025 18:12:21 UTC
+ Last Updated on 20/11/2025 00:30:58 UTC
 <!--END_SECTION:waka-->
