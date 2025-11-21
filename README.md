@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,293 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,15 +63,16 @@ Sunday                   1248 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 mins             ███████████████░░░░░░░░░░   58.98 % 
-JavaScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+JavaScript               9 mins              █████████████░░░░░░░░░░░░   51.06 % 
+JSON                     5 mins              ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Neovim                   31 mins             █████████████████████████   100.00 % 
+Neovim                   18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +88,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 18:12:37 UTC
+ Last Updated on 21/11/2025 00:31:00 UTC
 <!--END_SECTION:waka-->
