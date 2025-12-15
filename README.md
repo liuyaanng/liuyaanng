@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C088%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C089%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,18 +72,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 15/12/2025 00:34:50 UTC
+ Last Updated on 15/12/2025 06:14:27 UTC
 <!--END_SECTION:waka-->
