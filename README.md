@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C364%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2026
+> 🏆 406 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday                   1549 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 hrs 9 mins       ████████████████░░░░░░░░░   63.17 % 
-conf                     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-JSON                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Bash                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-bigfile                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               18 hrs 19 mins      ████████████████░░░░░░░░░   63.19 % 
+conf                     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+JSON                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bash                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+bigfile                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Neovim                   28 hrs 43 mins      █████████████████████████   100.00 % 
+Neovim                   28 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Shell                    4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2026 18:18:52 UTC
+ Last Updated on 15/03/2026 00:49:51 UTC
 <!--END_SECTION:waka-->
