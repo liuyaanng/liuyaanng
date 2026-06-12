@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C910%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C913%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,15 +79,15 @@ Mac                      30 hrs 21 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TypeScript               17 repos            ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 12/06/2026 07:51:05 UTC
+ Last Updated on 12/06/2026 13:24:00 UTC
 <!--END_SECTION:waka-->
