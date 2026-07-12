@@ -63,17 +63,17 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               20 hrs 33 mins      ███████████████░░░░░░░░░░   61.08 % 
-JSON                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-conf                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Docker                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TypeScript               20 hrs 33 mins      ███████████████░░░░░░░░░░   60.70 % 
+JSON                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Other                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+conf                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Docker                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Neovim                   33 hrs 38 mins      █████████████████████████   100.00 % 
+Neovim                   33 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 13:30:26 UTC
+ Last Updated on 12/07/2026 19:12:42 UTC
 <!--END_SECTION:waka-->
