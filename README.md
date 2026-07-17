@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C065%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C072%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -36,46 +36,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2221 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌆 Daytime                3546 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌃 Evening                4445 commits        ██████████░░░░░░░░░░░░░░░   41.23 % 
-🌙 Night                  570 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1659 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Tuesday                  1506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Wednesday                1591 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Thursday                 1463 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Friday                   1547 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Saturday                 1588 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Sunday                   1428 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    18 hrs 20 mins      ██████████████░░░░░░░░░░░   55.97 % 
-JSON                     9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-TypeScript               3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-TOML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-conf                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-
-🔥 Editors: 
-Neovim                   32 hrs 45 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      32 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -89,5 +49,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 19:20:31 UTC
+ Last Updated on 17/07/2026 02:57:13 UTC
 <!--END_SECTION:waka-->
