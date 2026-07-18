@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C072%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C083%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -63,17 +63,17 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    31 hrs 6 mins       █████████████████░░░░░░░░   69.20 % 
-JSON                     13 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-TOML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-conf                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    36 hrs 1 min        ██████████████████░░░░░░░   70.62 % 
+JSON                     12 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+conf                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Neovim                   44 hrs 56 mins      █████████████████████████   100.00 % 
+Neovim                   51 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      44 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 19:19:38 UTC
+ Last Updated on 18/07/2026 02:48:43 UTC
 <!--END_SECTION:waka-->
