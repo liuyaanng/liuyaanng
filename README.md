@@ -63,17 +63,17 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    36 hrs 1 min        ██████████████████░░░░░░░   70.62 % 
-JSON                     12 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-conf                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    36 hrs              ██████████████████░░░░░░░   70.88 % 
+JSON                     12 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+conf                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Neovim                   51 hrs              █████████████████████████   100.00 % 
+Neovim                   50 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      51 hrs              █████████████████████████   100.00 % 
+Mac                      50 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 13:27:24 UTC
+ Last Updated on 19/07/2026 19:14:01 UTC
 <!--END_SECTION:waka-->
