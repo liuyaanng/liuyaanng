@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C157%20hrs%2032%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.49%20million%20lines%20of%20code-blue?style=flat)
@@ -61,17 +63,17 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 4 mins       █████████████░░░░░░░░░░░░   51.53 % 
-JSON                     10 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-conf                     9 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Markdown                 4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Image (png)              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Other                    25 hrs 29 mins      █████████████░░░░░░░░░░░░   50.08 % 
+conf                     14 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+JSON                     8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Image (png)              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Neovim                   52 hrs 31 mins      █████████████████████████   100.00 % 
+Neovim                   50 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      52 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +89,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:37:47 UTC
+ Last Updated on 25/07/2026 02:58:06 UTC
 <!--END_SECTION:waka-->
