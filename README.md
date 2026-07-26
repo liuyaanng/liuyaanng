@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C157%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,774 Contributions in the Year 2026
+> 🏆 1,776 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 29 mins      █████████████░░░░░░░░░░░░   50.08 % 
-conf                     14 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-JSON                     8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Image (png)              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    25 hrs 19 mins      ████████████░░░░░░░░░░░░░   49.90 % 
+conf                     14 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+JSON                     8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Image (png)              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Neovim                   50 hrs 55 mins      █████████████████████████   100.00 % 
+Neovim                   50 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +89,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:15:16 UTC
+ Last Updated on 26/07/2026 03:23:24 UTC
 <!--END_SECTION:waka-->
