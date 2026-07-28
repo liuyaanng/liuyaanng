@@ -65,37 +65,37 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.09 % 
-conf                     15 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   34.22 % 
-JSON                     6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Image (png)              1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Other                    21 hrs 26 mins      █████████████░░░░░░░░░░░░   51.79 % 
+conf                     15 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.53 % 
+CSS                      2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+JSON                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   44 hrs 29 mins      █████████████████████████   100.00 % 
+Neovim                   41 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      44 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 46 mins (98.36%)
+⏱ AI Coding Time: 40 hrs 32 mins (97.93%)
 
-✍️ 0 lines written by AI, 126 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 111 lines written by hand (0.0% AI-written)
 
-🔤 6,247,822,064 Input Tokens, 17,317,613 Output Tokens
+🔤 3,506,426,675 Input Tokens, 10,744,377 Output Tokens
 
-💵 $31760.17 Estimated AI Cost This Week
+💵 $17855.99 Estimated AI Cost This Week
 
-🧠 363 AI Sessions, 437 AI Prompts
+🧠 289 AI Sessions, 399 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
+📄 Detailed Prompter — average 1,188 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -113,5 +113,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 14:20:01 UTC
+ Last Updated on 28/07/2026 19:41:33 UTC
 <!--END_SECTION:waka-->
