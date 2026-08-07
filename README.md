@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C076%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-735%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.49%20million%20lines%20of%20code-blue?style=flat)
@@ -34,6 +38,69 @@ Here are some ideas to get you started:
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2227 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌆 Daytime                3564 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌃 Evening                4445 commits        ██████████░░░░░░░░░░░░░░░   41.13 % 
+🌙 Night                  570 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1659 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Tuesday                  1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Wednesday                1605 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Thursday                 1463 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Friday                   1549 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 1588 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Sunday                   1428 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 29 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.73 % 
+TypeScript               14 hrs 48 mins      █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Other                    6 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+HTML                     3 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Bash                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+
+🔥 Editors: 
+Neovim                   67 hrs 45 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      67 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 67 hrs 39 mins (99.87%)
+
+✍️ 45,760 lines written by AI, 782 lines written by hand (98.32% AI-written)
+
+🔤 11,980,028,256 Input Tokens, 32,095,048 Output Tokens
+
+💵 $59225.83 Estimated AI Cost This Week
+
+🧠 184 AI Sessions, 863 AI Prompts
+
+Pi                       47,299 lines        █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.32% of written lines came from AI
+📄 Detailed Prompter — average 801 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.63% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -47,5 +114,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:08:11 UTC
+ Last Updated on 07/08/2026 07:23:54 UTC
 <!--END_SECTION:waka-->
