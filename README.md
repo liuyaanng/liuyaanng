@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C098%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C104%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-762%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-770%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,40 +65,40 @@ Sunday                   1428 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 20 hrs 10 mins      ██████████████░░░░░░░░░░░   55.01 % 
-Other                    6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-TypeScript               5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Markdown                 17 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.20 % 
+Other                    7 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+TypeScript               5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+conf                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Neovim                   36 hrs 39 mins      █████████████████████████   100.00 % 
+Neovim                   35 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      36 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 30 mins (99.6%)
+⏱ AI Coding Time: 35 hrs 22 mins (99.56%)
 
-✍️ 19,828 lines written by AI, 10 lines written by hand (99.95% AI-written)
+✍️ 12,586 lines written by AI, 10 lines written by hand (99.92% AI-written)
 
-🔤 1,229,693,252 Input Tokens, 4,837,417 Output Tokens
+🔤 1,674,711,833 Input Tokens, 7,959,687 Output Tokens
 
-💵 $5571.36 Estimated AI Cost This Week
+💵 $7985.39 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 559 AI Prompts
+🧠 101 AI Sessions, 571 AI Prompts
 
-Pi                       20,002 lines        █████████████████████████   100.00 % 
+Pi                       12,787 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 1,053 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 1,147 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +114,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:09:14 UTC
+ Last Updated on 14/08/2026 02:14:26 UTC
 <!--END_SECTION:waka-->
