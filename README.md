@@ -65,38 +65,38 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 40 mins      ███████████████████░░░░░░   77.15 % 
-JSON                     5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Markdown                 2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    26 hrs 40 mins      ████████████████████░░░░░   81.20 % 
+JSON                     5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   34 hrs 34 mins      █████████████████████████   100.00 % 
+Neovim                   32 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 29 mins (99.78%)
+⏱ AI Coding Time: 32 hrs 46 mins (99.77%)
 
 ✍️ 40 lines written by AI, 5 lines written by hand (88.89% AI-written)
 
-🔤 1,917,429,769 Input Tokens, 4,092,247 Output Tokens
+🔤 1,851,387,281 Input Tokens, 3,938,426 Output Tokens
 
-💵 $19348.08 Estimated AI Cost This Week
+💵 $18679.96 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 212 AI Prompts
+🧠 65 AI Sessions, 198 AI Prompts
 
 Pi                       52 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 88.89% of written lines came from AI
-📄 Detailed Prompter — average 1,374 characters per prompt
+📄 Detailed Prompter — average 1,186 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 32.47% of changed lines were hand-edited
 ```
@@ -114,5 +114,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 15:18:34 UTC
+ Last Updated on 12/09/2026 20:25:17 UTC
 <!--END_SECTION:waka-->
