@@ -65,40 +65,36 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 40 mins      ████████████████████░░░░░   81.20 % 
-JSON                     5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    24 hrs 5 mins       █████████████████████░░░░   83.55 % 
+JSON                     4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 
 🔥 Editors: 
-Neovim                   32 hrs 51 mins      █████████████████████████   100.00 % 
+Neovim                   28 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 46 mins (99.77%)
+⏱ AI Coding Time: 28 hrs 45 mins (99.73%)
 
-✍️ 40 lines written by AI, 5 lines written by hand (88.89% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 1,851,387,281 Input Tokens, 3,938,426 Output Tokens
+🔤 1,737,062,998 Input Tokens, 3,621,573 Output Tokens
 
-💵 $18679.96 Estimated AI Cost This Week
+💵 $17551.71 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 198 AI Prompts
+🧠 47 AI Sessions, 155 AI Prompts
 
-Pi                       52 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.89% of written lines came from AI
-📄 Detailed Prompter — average 1,186 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,316 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +110,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 15:55:51 UTC
+ Last Updated on 13/09/2026 20:34:25 UTC
 <!--END_SECTION:waka-->
