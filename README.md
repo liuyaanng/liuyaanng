@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 2,355 Contributions in the Year 2026
+> 🏆 2,360 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,34 +65,36 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 5 mins       █████████████████████░░░░   83.55 % 
-JSON                     4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Other                    13 hrs 3 mins       ███████████████████░░░░░░   74.75 % 
+JSON                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Neovim                   28 hrs 49 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 45 mins (99.73%)
+⏱ AI Coding Time: 17 hrs 23 mins (99.54%)
 
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 1,737,062,998 Input Tokens, 3,621,573 Output Tokens
+🔤 1,022,889,044 Input Tokens, 1,924,730 Output Tokens
 
-💵 $17551.71 Estimated AI Cost This Week
+💵 $10367.70 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 155 AI Prompts
+🧠 39 AI Sessions, 128 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,316 characters per prompt
+📄 Detailed Prompter — average 1,138 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -110,5 +112,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 12:18:07 UTC
+ Last Updated on 14/09/2026 21:42:53 UTC
 <!--END_SECTION:waka-->
