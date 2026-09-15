@@ -65,36 +65,36 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 3 mins       ███████████████████░░░░░░   74.75 % 
-JSON                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    6 hrs 26 mins       █████████████████████░░░░   84.51 % 
+CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 27 mins      █████████████████████████   100.00 % 
+Neovim                   7 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 23 mins (99.54%)
+⏱ AI Coding Time: 7 hrs 37 mins (99.96%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,022,889,044 Input Tokens, 1,924,730 Output Tokens
+🔤 566,788,218 Input Tokens, 979,505 Output Tokens
 
-💵 $10367.70 Estimated AI Cost This Week
+💵 $5759.43 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 128 AI Prompts
+🧠 16 AI Sessions, 49 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,138 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 198 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -112,5 +112,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 16:38:44 UTC
+ Last Updated on 15/09/2026 21:05:41 UTC
 <!--END_SECTION:waka-->
