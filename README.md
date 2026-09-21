@@ -65,40 +65,40 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
-Other                    3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-CSS                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+TypeScript               8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.23 % 
+Other                    2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Image (png)              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+JSON                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   19 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 8 mins (97.45%)
+⏱ AI Coding Time: 18 hrs 16 mins (95.94%)
 
-✍️ 1,749 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,186 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 237,158,326 Input Tokens, 438,793 Output Tokens
+🔤 310,950,047 Input Tokens, 651,649 Output Tokens
 
-💵 $1900.95 Estimated AI Cost This Week
+💵 $2320.53 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 190 AI Prompts
+🧠 35 AI Sessions, 242 AI Prompts
 
-Pi                       1,975 lines         █████████████████████████   100.00 % 
+Pi                       2,492 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 175 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +114,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 12:26:05 UTC
+ Last Updated on 21/09/2026 21:54:45 UTC
 <!--END_SECTION:waka-->
