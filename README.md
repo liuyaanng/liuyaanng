@@ -65,35 +65,35 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 13 mins      ███████████████████████░░   92.74 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-conf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    11 hrs 1 min        ██████████████████████░░░   89.66 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+conf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 30 mins      █████████████████████████   100.00 % 
+Neovim                   12 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 12 hrs 17 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,424,796,015 Input Tokens, 2,656,545 Output Tokens
+🔤 906,277,537 Input Tokens, 1,484,208 Output Tokens
 
-💵 $14380.79 Estimated AI Cost This Week
+💵 $9136.99 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 255 AI Prompts
+🧠 23 AI Sessions, 162 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 130 characters per prompt
+📝 Concise Prompter — average 156 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -111,5 +111,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 12:49:45 UTC
+ Last Updated on 01/10/2026 22:33:28 UTC
 <!--END_SECTION:waka-->
