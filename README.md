@@ -65,36 +65,36 @@ Sunday                   1610 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 1 min        ██████████████████████░░░   89.66 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-conf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    8 hrs 59 mins       ██████████████████████░░░   87.60 % 
+JSON                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+conf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 17 mins      █████████████████████████   100.00 % 
+Neovim                   10 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 15 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 906,277,537 Input Tokens, 1,484,208 Output Tokens
+🔤 861,948,333 Input Tokens, 1,350,324 Output Tokens
 
-💵 $9136.99 Estimated AI Cost This Week
+💵 $8687.00 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 162 AI Prompts
+🧠 17 AI Sessions, 138 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 156 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 107 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -111,5 +111,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 16:00:55 UTC
+ Last Updated on 03/10/2026 20:50:21 UTC
 <!--END_SECTION:waka-->
