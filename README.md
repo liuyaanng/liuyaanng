@@ -65,36 +65,37 @@ Sunday                   1683 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     14 mins             █████████████████████░░░░   82.50 % 
-TypeScript               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Other                    8 hrs 34 mins       ████████████████████████░   96.78 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Neovim                   17 mins             █████████████████████████   100.00 % 
+Neovim                   8 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 51 mins (100.0%)
 
 ✍️ 546 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,133,285 Input Tokens, 20,872 Output Tokens
+🔤 410,677,964 Input Tokens, 565,084 Output Tokens
 
-💵 $16.64 Estimated AI Cost This Week
+💵 $4109.30 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 2 AI Prompts
+🧠 17 AI Sessions, 112 AI Prompts
 
 Pi                       546 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 158 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -111,5 +112,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 13:06:47 UTC
+ Last Updated on 06/10/2026 22:34:12 UTC
 <!--END_SECTION:waka-->
