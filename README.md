@@ -65,37 +65,37 @@ Sunday                   1683 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 34 mins       ████████████████████████░   96.78 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    2 hrs 27 mins       ██████████████████████░░░   89.60 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 51 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 44 mins (100.0%)
 
 ✍️ 546 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 410,677,964 Input Tokens, 565,084 Output Tokens
+🔤 119,493,548 Input Tokens, 168,286 Output Tokens
 
-💵 $4109.30 Estimated AI Cost This Week
+💵 $1177.61 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 112 AI Prompts
+🧠 9 AI Sessions, 29 AI Prompts
 
 Pi                       546 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 129 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -112,5 +112,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 13:00:16 UTC
+ Last Updated on 07/10/2026 22:58:17 UTC
 <!--END_SECTION:waka-->
