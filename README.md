@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 2,901 Contributions in the Year 2026
+> 🏆 2,903 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,40 +65,38 @@ Sunday                   1683 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ██████████████░░░░░░░░░░░   55.69 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-SQL                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown                 17 mins             ██████████░░░░░░░░░░░░░░░   39.32 % 
+fish                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Text                     11 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 16 mins       █████████████████████████   100.00 % 
+Neovim                   43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 43 mins (100.0%)
 
-✍️ 2,201 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 41 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 61,975,757 Input Tokens, 182,694 Output Tokens
+🔤 4,050,612 Input Tokens, 35,981 Output Tokens
 
-💵 $218.28 Estimated AI Cost This Week
+💵 $42.31 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 87 AI Prompts
+🧠 5 AI Sessions, 6 AI Prompts
 
-Pi                       2,182 lines         █████████████████████████   98.16 % 
-Claude                   41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Claude                   41 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 575 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 5,529 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -115,5 +113,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 12:40:29 UTC
+ Last Updated on 19/10/2026 22:13:09 UTC
 <!--END_SECTION:waka-->
