@@ -65,39 +65,19 @@ Sunday                   1683 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 mins             ██████████░░░░░░░░░░░░░░░   39.32 % 
-fish                     12 mins             ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Text                     11 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (100.0%)
-
-✍️ 41 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 4,050,612 Input Tokens, 35,981 Output Tokens
-
-💵 $42.31 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 6 AI Prompts
-
-Claude                   41 lines            █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,529 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,5 +93,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 16:38:56 UTC
+ Last Updated on 20/10/2026 21:29:06 UTC
 <!--END_SECTION:waka-->
