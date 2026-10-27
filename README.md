@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![code](https://cdn.jsdelivr.net/gh/liuyaanng/liuyaanng@1.0/code.gif) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C175%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C178%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-871%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-874%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,19 +65,40 @@ Sunday                   2092 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 hrs 42 mins       ████████████░░░░░░░░░░░░░   46.79 % 
+JavaScript               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Markdown                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   16 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 hrs 20 mins (99.08%)
+
+✍️ 13,711 lines written by AI, 6 lines written by hand (99.96% AI-written)
+
+🔤 197,450,041 Input Tokens, 691,027 Output Tokens
+
+💵 $2009.05 Estimated AI Cost This Week
+
+🧠 64 AI Sessions, 73 AI Prompts
+
+Claude                   14,063 lines        █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 11,139 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,5 +114,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 17:49:39 UTC
+ Last Updated on 27/10/2026 22:03:32 UTC
 <!--END_SECTION:waka-->
